@@ -1,11 +1,18 @@
-import QtQuick
-import QtQuick.Window
-import QtWayland.Compositor
-import QtWayland.Compositor.XdgShell
-import QtWayland.Compositor.WlShell
-import QtWayland.Compositor.IviApplication
-import QtQuick.Controls
-import Qt5Compat.GraphicalEffects
+import QtQuick 2.0
+import QtQuick.Window 2.15
+import QtWayland.Compositor 1.15
+import QtGraphicalEffects 1.15
+
+/**
+import QtQuick 2.0
+import QtQuick.Window 2.0
+import QtWayland.Compositor 1.1
+import QtWayland.Compositor.XdgShell 1.0
+import QtWayland.Compositor.WlShell 1.0
+import QtWayland.Compositor.IviApplication 1.0
+import QtQuick.Controls 2.0
+import Qt5Compat.GraphicalEffects 2.0
+*/
 
 WaylandCompositor {
     WaylandOutput {
@@ -86,7 +93,7 @@ WaylandCompositor {
                                         y: 0
                                         height: 252
                                     }
-                                    onClicked: py.run_command(command)
+                                    // onClicked: py.run_command(command)
                                 }
                                 Text {
                                     id: textLabel
