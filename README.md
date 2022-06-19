@@ -1,4 +1,4 @@
-# jOS: a clone of the iPod Nano 6th gen.
+# a launcher for an iPod nano clone.
 
 ![screenshot](recording.gif)
 
