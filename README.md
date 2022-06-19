@@ -1,8 +1,8 @@
-# a launcher for an iPod nano clone.
+# [ipod-nano-launcher](https://github.com/mathletema/ipod-nano-launcher)
 
 ![screenshot](recording.gif)
 
-## What this project is?
+## What is this project?
 
 After about 10 years of beloved use, I accidently washed my iPod in my washing machine. This project was an attempt to build the software side, and then use a small SOC like the Raspberry PI to build a linux-based clone of my iPod.
 
