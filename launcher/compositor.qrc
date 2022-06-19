@@ -1,0 +1,13 @@
+<RCC>
+    <qresource>
+        <file>main.qml</file>
+        <file>AppList.qml</file>
+        <file>graphics/wallpaper.png</file>
+        <file>graphics/icons/music.png</file>
+        <file>graphics/icons/nowplaying.png</file>
+        <file>graphics/icons/settings.png</file>
+        <file>graphics/icons/radio.png</file>
+        <file>graphics/icons/fitness.png</file>
+        <file>graphics/icons/pictures.png</file>
+    </qresource>
+</RCC>

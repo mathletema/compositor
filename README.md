@@ -17,7 +17,7 @@ sudo apt install qt5-qmake qtbase5-dev qtdeclarative5-dev qtquickcontrols2-5-dev
 Then build:
 
 ```
-cd build
+mkdir build && cd build
 qmake ../
 make
 ```
